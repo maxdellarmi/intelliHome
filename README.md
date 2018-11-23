@@ -1,4 +1,4 @@
-#Intelli Home
+# Intelli Home
 a sample project for course **Spring for Beginner**
 
 Questo progetto è il punto di arrivo della prima lezione. Al suo interno tratteremo varie argomentazioni:
